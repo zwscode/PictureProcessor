@@ -11,3 +11,4 @@
 
 #功能演示视频地址  
 ----------------------
+http://v.youku.com/v_show/id_XMTUxMDEyNzY5Mg==.html
